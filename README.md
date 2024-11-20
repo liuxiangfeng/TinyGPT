@@ -1,1 +1,1 @@
-# myGPT
+# TinyGPT
